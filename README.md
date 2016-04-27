@@ -3,7 +3,7 @@
 **The Gladiator's Mastermind** 
 - Session: 07 (https://github.com/pascalandy/meeting/issues/7)
 - Time keeper: Juan
-- The host will be: Pascal
+- The host will be: Jill
 - Next meeting date: 2016-04-26 8h30PM EST
 - This meeting will last: 50 min
 - How much time per person: 5 min
