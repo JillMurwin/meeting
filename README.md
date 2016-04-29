@@ -12,12 +12,12 @@
 
 ### Pairing match for today (changing everyweek):
 
-- Denis Côté
-- Cheryl Hammond
-- Juan Camou
-- Jill Murwin
-- Luz Gonzalez
-- Pascal Andy
+-Pascal Andy
+-Cheryl Hammond
+-Jill Murwin
+-Denis Côté
+-Luz Gonzalez
+-Juan Camou
   
 *[Here is the tool](https://github.com/pascalandy/meeting/blob/master/Gladiator-MasterMind-Constitution.md#randomizelistcom) the generate a random list.*
 
